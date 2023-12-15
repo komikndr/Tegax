@@ -25,9 +25,45 @@ it is oil tech in middle of the ocean.
 our protagonist is lured, since he is NEET, but has programming skill (this is me btw), task to do basic day database
 maintenance, our Son decided to feel "joy ful to us", before the NULL? wants to keep us.
 
+-------------------------
+FAITH UNHOLY TRINITY GAMEPLAY
+_________________________
+1. Exorcising
+2. moving
+3. opening letter/note
+4. grabbing key/object
+
+ENEMY
+1. Chase, hit box object detection, insta kill
+2. Choosing wrong answer resulted insta kill in story
+
+Story Branch
+Multi ending 
+
 ________________________
 Gameplay
 ------------------------
+1. Moving using minimap ONLY 
+2. Text read
+3. Opening terminal
+4. Only select terminal available to player (Key-lock gamemode)
+
+ENEMY??
+1. Basically baldy basic, wrong answer insta kill
+2. Use how many tally of wrong text, to branch story
+3. Randomny NULL Appear
+4. Time base, correct based.
+
+Terminal Mechanic
+Deep into the game, terminal become more more corrupted
+-Corupted, Many random text, gore color reddish (pick from faith unholy)
+-Many null pointer exception
+-Weirdly randomized text dynamic
+
+Threat and fear factor? how to drive isolation?
+This is basically first person
+
+
 
 so basically this is the overall picture of the story
 
